@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+
+theme: jekyll-theme-midnight
+
 <html lang="en">
     <HEAD>  
         <meta charset="UTF-8">
