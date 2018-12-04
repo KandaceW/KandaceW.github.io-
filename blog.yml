@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <HEAD>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>HTML Template</title></head>
+    <body>
+    </body>
+</html>
+
+Syntax highlighted code block
+
+# Header 1**Bold** 'My 1st Blog EVER'
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+
+
+theme: jekyll-theme-midnight
+
+# **My 1st BLOG ever**
+
+### *Kandace Willcox - Foundations - Dev Academy - 2018*
+
+## **Where do I start?**
