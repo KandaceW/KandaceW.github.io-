@@ -1,0 +1,10 @@
+{
+  // Controls auto save of dirty files. Read more about autosave [here](https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save).
+  //  - off: A dirty file is never automatically saved.
+  //  - onFocusChange: A dirty file is automatically saved when the editor loses focus.
+  // Controls the font size in pixels.
+  "editor.fontSize": 12,
+  // The modifier to be used to add multiple cursors with the mouse. The Go To Definition and Open Link mouse gestures will adapt such that they do not conflict with the multicursor modifier.
+  
+    "git.ignoreLimitWarning": true
+}
