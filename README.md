@@ -1,14 +1,13 @@
+[!doctype.html]
 
-\\# KandaceWillcox.github.io
+ [https://KandaceWillcox.github.io]
+
 <head>
-    <h3>My Blog in Github pages shall begin</h3>
-        <jekyll-theme-midnight>    
+    <h3>My Blog in Github pages shall begin</h3>  
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <meta http-equiv="X-UA-Compatible" content="ie=edge">
-                    <title>HTML Template</title></head>
+                    <title>My 1st BLOG ever</title></head>
                 <meta http-equiv="X-UA-Compatible"content="ie=edge">
-            
-[Link(url)KandaceWillcox.github.io/index.html]
         <title><span>My 1st BLOG ever<span></title>
 </head>     
    <body>
