@@ -24,4 +24,4 @@
 ![Photos Desktop.jpg](src)
 theme: jekyll-theme-midnight>
                 
-            
+           [Users/kmama/Workspace/School-Dev-Academy/blOg/KandaceW.github.io-/my blog.html.txt]
