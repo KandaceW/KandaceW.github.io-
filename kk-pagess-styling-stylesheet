@@ -1,3 +1,20 @@
+
+
+.container-lg.px-3.my-5.markdown-body {}
+.container-lg.px-3.my-5.markdown-body {}
+.container-lg.px-3.my-5.markdown-body {}
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+
+
+
+
 <HEAD>
     <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -34,5 +51,17 @@
                 
                 
 <theme: jekyll-theme-midnight>
-                
-                 
+
+
+
+
+
+
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
