@@ -1,18 +1,16 @@
 
 \\# KandaceWillcox.github.io
-
-<h3>My Blog in Github pages shall begin</h1>
-<jekyll-theme-midnight>    
-    [Link>(url)KandaceWillcox.github.io/index.html(/url)]
-                    <jekyll-theme-midnight>    
+<head>
+    <h3>My Blog in Github pages shall begin</h3>
+        <jekyll-theme-midnight>    
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <meta http-equiv="X-UA-Compatible" content="ie=edge">
                     <title>HTML Template</title></head>
                 <meta http-equiv="X-UA-Compatible"content="ie=edge">
-
- [Link(url)KandaceWillcox.github.io/index.html]
-        <title><span># **My 1st BLOG ever**<span></title>
-</HEAD>      
+            
+[Link(url)KandaceWillcox.github.io/index.html]
+        <title><span>My 1st BLOG ever<span></title>
+</head>     
    <body>
         <h1><p>'My 1st Blog EVER'</p></h1>
             <SPAN></h2 Kandace Willcox - Foundations - Dev Academy - 2018 h3>
