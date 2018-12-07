@@ -1,16 +1,5 @@
-
-
-.container-lg.px-3.my-5.markdown-body {}
-.container-lg.px-3.my-5.markdown-body {}
-.container-lg.px-3.my-5.markdown-body {}
-root = true
-
-[*]
-indent_style = space
-indent_size = 4
-charset = utf-8
-trim_trailing_whitespace = false
-insert_final_newline = false
+<!doctype .html>
+<html lang="en">
 
 
 
@@ -22,6 +11,21 @@ insert_final_newline = false
                 <title>HTML Template</title></head>
             <meta http-equiv="X-UA-Compatible" content="ie=edge">
                 <title><span># **My 1st BLOG ever**</title> </SPAN>	
+                .container-lg.px-3.my-5.markdown-body {}
+.container-lg.px-3.my-5.markdown-body {}
+.container-lg.px-3.my-5.markdown-body {}
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+theme: jekyll-theme-midnight
+
+
+
  </HEAD>      
    <body>
         {p}{[h1}'My 1st Blog EVER'{/h1}{/p}
@@ -51,6 +55,12 @@ insert_final_newline = false
                 
                 
 <theme: jekyll-theme-midnight>
+
+
+
+
+
+
 
 
 
