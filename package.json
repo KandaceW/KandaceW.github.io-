@@ -1,0 +1,20 @@
+{
+  "name": "blOg",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/KandaceW/KandaceW.github.io-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KandaceW/blOg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KandaceW/blOg/issues"
+  },
+  "homepage": "https://github.com/KandaceW/blOg#readme"
+}
